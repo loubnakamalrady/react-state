@@ -6,7 +6,7 @@ class App extends Component {
     person: {
       fullName: 'Harrold Styles',
       bio: 'Ambitious React Developer',
-      imgSrc: 'https://unsplash.com/photos/UcYBL5V0xWQ',
+      imgSrc: 'nubelson-fernandes-UcYBL5V0xWQ-unsplash.jpg',
       profession: 'React Developer',
       shows: true
     },
